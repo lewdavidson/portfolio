@@ -18,8 +18,24 @@
 
 .card-header {
   text-align: center;
+  background-color: #738517;
+  border-color: black;
+  border-width: medium;
 }
 
 h2 {
   text-align: center;
+}
+
+span a {
+  margin-top: 40px;
+}
+
+.row {
+  margin-top: 20px;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 20px;
 }
