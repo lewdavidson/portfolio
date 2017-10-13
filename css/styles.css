@@ -1,17 +1,5 @@
-
-#heading {
-  border-radius: 50%;
-  width: 300px;
-}
-
-#hacker {
-  float: right;
-  margin-right: 15%;
-  margin-top: 3.5%;
-}
-
-#para {
-  padding-top: 2%;
+body {
+  font-style: 'Varela Round', sans-serif;
 }
 
 nav {
@@ -27,6 +15,7 @@ h2 {
   text-align: center;
   margin-top: 50px;
   font-size: 40px;
+  text-shadow: 1px 1px 1px black;
 }
 
 h3 {
@@ -34,6 +23,7 @@ h3 {
   margin-top: 50px;
   margin-bottom:20px;
   font-size: 40px;
+  text-shadow: 1px 1px 1px black;
 }
 
 h4 {
@@ -51,7 +41,6 @@ h4 {
 
 .top {
   text-align: center;
-  font-style: 'Varela Round', sans-serif;
   padding-bottom: 5%;
 }
 
@@ -72,6 +61,26 @@ h4 {
   border-width: medium;
 }
 
+.container {
+  background-color: #D0D6D2;
+  padding-bottom: 1%;
+}
+
 .row {
   margin-top: 20px;
+}
+
+#heading {
+  border-radius: 50%;
+  width: 300px;
+}
+
+#hacker {
+  float: right;
+  margin-right: 15%;
+  margin-top: 3.5%;
+}
+
+#para {
+  padding-top: 2%;
 }
