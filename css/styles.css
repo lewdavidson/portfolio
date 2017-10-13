@@ -1,6 +1,12 @@
-#headimg {
+#heading {
   border-radius: 50%;
   width: 300px;
+}
+
+#hacker {
+  float: right;
+  margin-right: 15%;
+  margin-top: 1.5%;
 }
 
 .jumbotron {
@@ -39,6 +45,7 @@ span a {
 h3 {
   text-align: center;
   margin-top: 20px;
+  margin-bottom:20px;
 }
 
 h4 {
@@ -48,8 +55,4 @@ h4 {
 .top p {
   font-size: 50px;
   margin-top: 10px;
-}
-
-#exp {
-  padding-bottom: 46%;
 }
