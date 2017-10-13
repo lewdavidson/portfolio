@@ -1,3 +1,4 @@
+
 #heading {
   border-radius: 50%;
   width: 300px;
@@ -6,7 +7,41 @@
 #hacker {
   float: right;
   margin-right: 15%;
-  margin-top: 1.5%;
+  margin-top: 3.5%;
+}
+
+#para {
+  padding-top: 2%;
+}
+
+nav {
+  margin-top: 1%;
+  border: 1px solid black;
+}
+
+span a {
+  margin-top: 40px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 40px;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom:20px;
+  font-size: 40px;
+}
+
+h4 {
+  text-align: center;
+}
+
+.breadcrumb {
+  background-color: #738517;
 }
 
 .jumbotron {
@@ -20,41 +55,23 @@
   padding-bottom: 5%;
 }
 
+.top p {
+  font-size: 50px;
+  margin-top: 10px;
+}
+
 .card-text p ul {
   text-align: center;
 }
 
 .card-header {
   text-align: center;
+  font-size: 25px;
   background-color: #738517;
   border-color: black;
   border-width: medium;
 }
 
-h2 {
-  text-align: center;
-  margin-top: 50px;
-}
-
-span a {
-  margin-top: 40px;
-}
-
 .row {
   margin-top: 20px;
-}
-
-h3 {
-  text-align: center;
-  margin-top: 50px;
-  margin-bottom:20px;
-}
-
-h4 {
-  text-align: center;
-}
-
-.top p {
-  font-size: 50px;
-  margin-top: 10px;
 }

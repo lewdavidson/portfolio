@@ -7,7 +7,7 @@
 ## Installation Requirements / Setup
 
   *clone the project from the git repository in the link below onto your Desktop
-  *link: https://github.com/lewdavidson/portfolio.git
+  *link: (https://github.com/lewdavidson/portfolio.git)
   *Open in software of your choice to edit OR open index.html in any browser (tested in Google Chrome)
 
   _this site was made using bootstrap 4.0_
