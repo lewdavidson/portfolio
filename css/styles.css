@@ -11,3 +11,15 @@
   text-align: center;
   font-style: 'Varela Round', sans-serif;
 }
+
+.card-text p ul {
+  text-align: center;
+}
+
+.card-header {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
