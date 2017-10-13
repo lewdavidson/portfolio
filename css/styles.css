@@ -1,15 +1,15 @@
 body {
   font-style: 'Varela Round', sans-serif;
-}
+} /*font style taken from google fonts*/
 
 nav {
   margin-top: 1%;
   border: 1px solid black;
-}
+} /*establishes spacing between nav bar and main body. Adds border color and thickness to the nav bar*/
 
 span a {
   margin-top: 40px;
-}
+} /*fixes spacing issue on the band button*/
 
 h2 {
   text-align: center;
@@ -32,26 +32,22 @@ h4 {
 
 .breadcrumb {
   background-color: #738517;
-}
+} /*changes color of bottom nav bar*/
 
 .jumbotron {
   background-color: #738517;
   padding-bottom: 1em;
   opacity: 1;
-}
+} /*changes header color and adds a little bit of padding*/
 
 .top {
   text-align: center;
   padding-bottom: 5%;
-}
+} /*made info inside of jumbotron look more centered*/
 
 .top p {
   font-size: 50px;
   margin-top: 10px;
-}
-
-.card-text p ul {
-  text-align: center;
 }
 
 .card-header {
@@ -60,7 +56,7 @@ h4 {
   background-color: #738517;
   border-color: black;
   border-width: medium;
-}
+} /*adds styling to the headers in the cards*/
 
 .card-body {
   background-color: #DCEBD5;
@@ -69,23 +65,23 @@ h4 {
 .container {
   background-color: #D0D6D2;
   padding-bottom: 1%;
-}
+} /*changes color of the page background*/
 
 .row {
   margin-top: 20px;
-}
+} /*adds spacing between headers and cards*/
 
 #heading {
   border-radius: 50%;
   width: 300px;
-}
+} /*makes photo in the header round*/
 
 #hacker {
   float: right;
   margin-right: 15%;
   margin-top: 3.5%;
-}
+} /*styling for the hacker image*/
 
 #para {
   padding-top: 2%;
-}
+} /*adds spacing between blockquote and the paragraph under it*/
