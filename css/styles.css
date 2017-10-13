@@ -1,0 +1,13 @@
+#headimg {
+  border-radius: 50%;
+  width: 300px;
+}
+
+.jumbotron {
+  background-color: #738517
+}
+
+.top {
+  text-align: center;
+  font-style: 'Varela Round', sans-serif;
+}
