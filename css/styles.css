@@ -17,6 +17,7 @@
 .top {
   text-align: center;
   font-style: 'Varela Round', sans-serif;
+  padding-bottom: 5%;
 }
 
 .card-text p ul {
@@ -32,6 +33,7 @@
 
 h2 {
   text-align: center;
+  margin-top: 50px;
 }
 
 span a {
@@ -44,7 +46,7 @@ span a {
 
 h3 {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 50px;
   margin-bottom:20px;
 }
 
